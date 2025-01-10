@@ -1,6 +1,6 @@
 ## Aritmetik Operatörler
 
-**Aritmetik Operatörler**, matematiksel işlemler yapmak için kullanılır. Şimdi örnek olarak iki değişken yaratalım ve operatörleri deneyelim:
+**Aritmetik Operatörler**, matematiksel işlemler yapmak için kullanılır. Şimdi örnek olarak iki değişken yaratalım ve operatörleri deneyelim.
 
 ```python
 num1 = 5
