@@ -7,7 +7,7 @@ num1 = 5
 num2 = 2
 ```
 
-| Operatör | Açıklama        | Örnek Kod         | Sonuç       | Ek Bilgi |
+| Operatör | İsim            | Örnek Kod         | Sonuç       | Ek Bilgi |
 |----------|-----------------|-------------------|-------------|----------|
 | `+`      | Toplama         | `print(num1 + num2)`   | `7`    |          |
 | `-`      | Çıkarma         | `print(num1 - num2)`   | `3`    |          |
@@ -28,7 +28,7 @@ num1 = 5
 num2 = 2
 ```
 
-| Operatör | Açıklama        | Örnek Kod         | Sonuç        |      Uzun Hali       |
+| Operatör | İsim            | Örnek Kod         | Sonuç        |      Uzun Hali       |
 |----------|-----------------|-------------------|--------------|----------------------|
 | `=`      | Normal Atama    | `num1 = 6`        |  `num1: 6`   |                      |
 | `+=`     | Artı eşittir    | `num1 += num2`    |  `num1: 7`   |  num1 = num1 + num2  |
